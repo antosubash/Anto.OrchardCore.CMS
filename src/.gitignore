@@ -334,6 +334,6 @@ ASALocalRun/
 .localhistory/
 
 # New
-App_Data
 Localization
+*.db
 *.vscode
